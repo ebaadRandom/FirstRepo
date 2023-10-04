@@ -1,0 +1,15 @@
+/Users/ebaad69/Desktop/C#/FirstRepo/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp
+/Users/ebaad69/Desktop/C#/FirstRepo/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.deps.json
+/Users/ebaad69/Desktop/C#/FirstRepo/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.runtimeconfig.json
+/Users/ebaad69/Desktop/C#/FirstRepo/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.dll
+/Users/ebaad69/Desktop/C#/FirstRepo/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.pdb
+/Users/ebaad69/Desktop/C#/FirstRepo/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.AssemblyReference.cache
+/Users/ebaad69/Desktop/C#/FirstRepo/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ebaad69/Desktop/C#/FirstRepo/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/ebaad69/Desktop/C#/FirstRepo/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfo.cs
+/Users/ebaad69/Desktop/C#/FirstRepo/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/ebaad69/Desktop/C#/FirstRepo/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.dll
+/Users/ebaad69/Desktop/C#/FirstRepo/ConsoleApp/ConsoleApp/obj/Debug/net7.0/refint/ConsoleApp.dll
+/Users/ebaad69/Desktop/C#/FirstRepo/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.pdb
+/Users/ebaad69/Desktop/C#/FirstRepo/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.genruntimeconfig.cache
+/Users/ebaad69/Desktop/C#/FirstRepo/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ref/ConsoleApp.dll
